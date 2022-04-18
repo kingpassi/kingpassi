@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kingpassi
 - 👀 I’m interested in ...Placements
 - 🌱 I’m currently learning ...DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...evey project
 - 📫 How to reach me ...whatsapp on 7065699632
 
 <!---
