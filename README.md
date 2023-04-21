@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kingpassi
-- 👀 I’m interested in ... code+song(life)
-- 🌱 I’m currently working in ...DSA and Android Development
-- 💞️ I’m looking to collaborate on ...intresting projects
+- 👀 I’m interested in ... Android App Dev
+- 🌱 I’m currently working on ...DSA and Android Development projects
+- 💞️ I’m looking to collaborate on ...intrested collabs
 - 📫 reach me on ...whatsapp on 7065699632
 
 <!---
